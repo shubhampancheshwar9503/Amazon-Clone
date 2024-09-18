@@ -28,8 +28,7 @@ This repository features a clone of the Amazon homepage, created using HTML and 
 2. Navigate to the project directory: `cd amazon-clone`
 3. Open `index.html` in your preferred browser to view the project.
 
+### Live Demo:
+You can view the live demo of this project at [Amazon Clone by Shubham](https://amazon-clone-by-shubham.netlify.app/).
+
 This project demonstrates skills in HTML and CSS, showcasing the ability to build a responsive layout and integrate external libraries. It serves as a solid foundation for understanding complex web design and layout techniques.
-
----
-
-Feel free to customize the repository URL and any other details as needed!
