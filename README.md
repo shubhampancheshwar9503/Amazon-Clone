@@ -1,4 +1,4 @@
-**Amazon Clone Website - HTML & CSS**
+# Amazon Clone Website - HTML & CSS
 
 This repository features a clone of the Amazon homepage, created using HTML and CSS. The project aims to replicate the core visual and functional aspects of Amazon’s website, providing a clean and responsive user interface.
 
